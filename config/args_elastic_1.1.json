@@ -1,0 +1,13 @@
+{
+    "model_type": "elasticsearch",
+    "index_name": "healthex__tags_snippet_tttt",
+    "run_name": "es_baseline_stem",
+    "prep_lower": true,
+    "prep_skipw": true,
+    "prep_stem": true,
+    "prep_remove_punct": true,
+    "prep_prefix_col": "Tags",
+    "prep_col": "Snippet",
+    "prep_max_words_per_snippet": 30,
+    "num_search_results": 5
+}

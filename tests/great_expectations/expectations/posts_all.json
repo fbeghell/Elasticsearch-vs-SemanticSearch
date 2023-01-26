@@ -1,0 +1,89 @@
+{
+  "data_asset_type": null,
+  "expectation_suite_name": "posts_all",
+  "expectations": [
+    {
+      "expectation_type": "expect_table_columns_to_match_ordered_list",
+      "kwargs": {
+        "column_list": [
+          "Id",
+          "PostTypeId",
+          "CreationDate",
+          "Score",
+          "ViewCount",
+          "Body",
+          "OwnerUserId",
+          "LastEditDate",
+          "LastActivityDate",
+          "Title",
+          "Tags",
+          "AnswerCount",
+          "CommentCount",
+          "ContentLicense"
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_unique",
+      "kwargs": {
+        "column": "Id"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Id"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_of_type",
+      "kwargs": {
+        "column": "Title",
+        "type_": "str"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_of_type",
+      "kwargs": {
+        "column": "Body",
+        "type_": "str"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_of_type",
+      "kwargs": {
+        "column": "Tags",
+        "type_": "str"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "CreationDate"
+      },
+      "meta": {}
+    }
+  ],
+  "ge_cloud_id": null,
+  "meta": {
+    "citations": [
+      {
+        "batch_request": {
+          "data_asset_name": "posts.csv",
+          "data_connector_name": "default_inferred_data_connector_name",
+          "datasource_name": "local_data",
+          "limit": 1000
+        },
+        "citation_date": "2022-12-15T16:22:14.544826Z",
+        "comment": "Created suite added via CLI"
+      }
+    ],
+    "great_expectations_version": "0.15.15"
+  }
+}

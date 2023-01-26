@@ -1,0 +1,151 @@
+query,grade,rank,id,snippet,tags,notes
+Is it ok to hear my heart beat?,,1,825:0,Is it normal to feel your heart beat in your chest?,<cardiology>,Score 0.77
+Is it ok to hear my heart beat?,,2,4542:0,Why can I hear my heart beat louder after rigorous exercise,<blood-pressure>,Score 0.65
+Is it ok to hear my heart beat?,,3,12427:3,"The other day when i woke up i felt my heart beating hard, and i occasionally feel my heart beating without touching it with my hands.",<heartbeat>,Score 0.64
+Is it ok to hear my heart beat?,,4,5264:2,After a heavy set of squats for instance I can hear my heart beating in my ears and feel it beating in my chest.,<cardiology>,Score 0.64
+Is it ok to hear my heart beat?,,5,825:1,"Is it normal for a person to at times feel their heart beat in their chest without actually placing their hand on their chest, while at other times not be able to (even though the pulse is strong, regular and consistent in both instances) or is this potentially a symptom of a cardiovascular disease?",<cardiology>,Score 0.61
+what are the food combinations to avoid?,,1,1469:1,"A doctor has advised my friend to leave off eating junk food. Following are things which he eats generally, but which are junk among them?",<food-safety>,Score 0.61
+what are the food combinations to avoid?,,2,15145:2,"elimination diets, a low carb diet, intermittent fasting and grain elimination.",<nutrition><digestion><micronutrients><stomach><vegetarianism>,Score 0.6
+what are the food combinations to avoid?,,3,1187:0,Are there any sustainable alternatives to eating food?,<nutrition>,Score 0.59
+what are the food combinations to avoid?,,4,9539:2,"Assortment of the chains typically include the following: hamburgers/whoppers, cheeseburgers, sandwiches, French fries (chips), fried chicken and so on.",<nutrition><diet><food-safety>,Score 0.58
+what are the food combinations to avoid?,,5,13041:6,Or is it not advisable to eat any of the food?,<food-safety><food-poisoning><food-addiction>,Score 0.57
+what are negative eye powers?,,1,3355:1,One of my friends went to an eye specialist for checkup and the doctor told him that his eye power changed from -6 from -4.5.,<eye>,Score 0.69
+what are negative eye powers?,,2,3355:0,What does eye power -6 means and how close to blindness is it?,<eye>,Score 0.66
+what are negative eye powers?,,3,3355:4,Could someone explain me how what eye power -6 means in respect to closeness of blindness? What can be the minimum negative eye power and maximum positive eye power of an eye?,<eye>,Score 0.64
+what are negative eye powers?,,4,957:5,"I saw negative integers (like -5,-2) sometimes, but I didn't understand how they work exactly. I guess they measure how bad your eyesight is compare to average. My optometrist used dioptries.",<eye><optometry>,Score 0.6
+what are negative eye powers?,,5,3355:3,I can understand that -6 means the vision is in very poor state but don’t have any idea how much worse it is.,<eye>,Score 0.58
+How many calories do I have to burn to lose 1 Kilogram in weight?,,1,17419:2,The standard answer is therefore that a deficit of 7700 Kcal is needed to lose 1 kg of body weight in the form of body fat.,<weight-loss>,Score 0.69
+How many calories do I have to burn to lose 1 Kilogram in weight?,,2,5394:0,"How many Calories Deficit Equals 1 KG Loss, approximately",<weight-loss><body-fat><body-weight>,Score 0.67
+How many calories do I have to burn to lose 1 Kilogram in weight?,,3,5394:1,"How many Calories Deficit Equals 1 KG Lost? I intend to loose weight and burn 500 calories daily in Gym. How many Calories Deficit Equals 1 KG Weight Loss, approximately?",<weight-loss><body-fat><body-weight>,Score 0.63
+How many calories do I have to burn to lose 1 Kilogram in weight?,,4,17419:0,"7700 Kcal deficit per per kg weight loss, or just 3600 Kcal deficit per kg weight loss?",<weight-loss>,Score 0.57
+How many calories do I have to burn to lose 1 Kilogram in weight?,,5,797:0,Does 3500 calories really equal a pound?,<nutrition><diet><weight>,Score 0.57
+prevent stomach ache when taking medication,,1,4525:1,"Very often, doctors or pharmacists will advise patients to take certain pills with food to ""act as a buffer"" so the patient is less likely to get a stomach ache from taking the pill.",<medications><digestion><stomach>,Score 0.74
+prevent stomach ache when taking medication,,2,4433:0,"When is a stomach ""empty"" for the purpose of taking medication?",<medications><digestion>,Score 0.68
+prevent stomach ache when taking medication,,3,4525:0,How much food is necessary to buffer the stomach when taking medicine?,<medications><digestion><stomach>,Score 0.65
+prevent stomach ache when taking medication,,4,4525:6,"(As a side note, not all pills should be taken with food; some pills are to be taken on an empty stomach.",<medications><digestion><stomach>,Score 0.65
+prevent stomach ache when taking medication,,5,11820:0,can I take pills before food?,<medications><digestion><stomach><time-of-day>,Score 0.64
+is it ok to use a pillow?,,1,5044:0,Is it better to sleep without a pillow?,<sleep><spine><position>,Score 0.69
+is it ok to use a pillow?,,2,5044:2,"Is Sleeping Without a Pillow a Good Choice? Yes, it is.",<sleep><spine><position>,Score 0.67
+is it ok to use a pillow?,,3,5044:6,"http://www. snoringmouthpiece-reviews.com/sleep-without-pillow/ While sleeping with or without a pillow is a personal preference, there are some medical experts that believe there are real benefits of sleeping without a pillow.",<sleep><spine><position>,Score 0.59
+is it ok to use a pillow?,,4,5044:1,I have read several web pages that mention the potential benefits of sleeping without a pillow. Examples: http://www. newhealthadvisor.com/Sleeping-Without-a-Pillow.,<sleep><spine><position>,Score 0.57
+is it ok to use a pillow?,,5,5044:5,"Even as we age, our body, including heads and necks, is able to rest comfortably without the support of a pillow.",<sleep><spine><position>,Score 0.56
+my urine is very yellow. Is this a problem?,,1,99:1,"When I was given antibiotics for fever by my doctor, I noticed that my urine is unusually yellow. Why is that?",<side-effects><coloration-discoloration><antibiotics><urine><urinary-system>,Score 0.69
+my urine is very yellow. Is this a problem?,,2,99:0,Why does my antibiotic make my urine yellow?,<side-effects><coloration-discoloration><antibiotics><urine><urinary-system>,Score 0.69
+my urine is very yellow. Is this a problem?,,3,14785:1,"I was warned recently that eating beets can cause reddish-purple urine, which got me thinking.",<diet><blood><coloration-discoloration>,Score 0.65
+my urine is very yellow. Is this a problem?,,4,7010:3,Does it matter if the urine color changes dramatically like when a person takes a large B-complex vitamin capsule?,<medications><toxicity><liver><urine><kidney>,Score 0.6
+my urine is very yellow. Is this a problem?,,5,1213:0,Is it safe to drink urine when you have nothing else to drink?,<nutrition><water><emergency><urine><drinks>,Score 0.57
+is it ok to go to the pool after I had a piercing?,,1,5733:0,Is it safe to swim during the healing period of a nipple piercing?,<recovery><swimming><nipples><body-piercings>,Score 0.72
+is it ok to go to the pool after I had a piercing?,,2,5733:2,I swim regularly (4-5 times a week) in a swimming pool and I was wondering if there is any problem with swimming during the healing period of the piercing.,<recovery><swimming><nipples><body-piercings>,Score 0.69
+is it ok to go to the pool after I had a piercing?,,3,5733:3,"Is it possible or should it be avoided? In case it is possible, should any special precautions be taken?",<recovery><swimming><nipples><body-piercings>,Score 0.65
+is it ok to go to the pool after I had a piercing?,,4,5733:1,I am a male and I am considering to get one of my nipples pierced.,<recovery><swimming><nipples><body-piercings>,Score 0.59
+is it ok to go to the pool after I had a piercing?,,5,5733:4,"P.S. I haven't still decided if I am going to get the piercing or not, that's the reason why I haven't still asked a professional about it.",<recovery><swimming><nipples><body-piercings>,Score 0.56
+does gun powder help sealing a wound?,,1,4335:6,Is gunpowder a plausible method of closing a wound if/when no other alternatives are readily available?,<first-aid><stitches><penetrate-trauma-wound><exsanguination>,Score 0.71
+does gun powder help sealing a wound?,,2,4335:0,Can you cauterize a wound with gunpowder?,<first-aid><stitches><penetrate-trauma-wound><exsanguination>,Score 0.67
+does gun powder help sealing a wound?,,3,4335:3,"The solution presented in the film is to rub some gunpowder (assuming period accuracy, this would be early 1800's black powder, not the modern stuff) into the wound and then ignite it.",<first-aid><stitches><penetrate-trauma-wound><exsanguination>,Score 0.65
+does gun powder help sealing a wound?,,4,11917:0,When not to apply pressure to bullet wound?,<wound-care><limbs><gunshot-wounds><shrapnel-bullets>,Score 0.65
+does gun powder help sealing a wound?,,5,113:4,Does using urine helps in this regad?,<wound-care><first-aid>,Score 0.63
+is it ok to eat after brushing my teeth at night?,,1,20822:10,"Is there any medical significance to brushing your teeth after waking up, if you're not going to eat until lunch?",<dentistry><brushing-teeth>,Score 0.78
+is it ok to eat after brushing my teeth at night?,,2,4044:0,Is eating after brushing before bed all that bad?,<dentistry><oral-health>,Score 0.78
+is it ok to eat after brushing my teeth at night?,,3,4044:2,"Sometimes I get hungry after brushing my teeth in the evening, however, and I'll be tempted to eat something.",<dentistry><oral-health>,Score 0.77
+is it ok to eat after brushing my teeth at night?,,4,20822:0,Does brushing your teeth immediately after sleeping have some medical significance?,<dentistry><brushing-teeth>,Score 0.77
+is it ok to eat after brushing my teeth at night?,,5,5597:1,"Usually in the morning I brush my teeth after breakfast. But my dentist told me that it's better not brush them right after eating food, because eating makes them soft.",<dentistry><hygiene><oral-health>,Score 0.74
+what are the effects of drinking coffee?,,1,22950:3,What's the worst thing that could happen?,<covid-19><caffeine><drinks><coffee>,Score 0.73
+what are the effects of drinking coffee?,,2,309:1,How much coffee can a healthy adult drink before it starts to affect them in a bad way?,<nutrition>,Score 0.71
+what are the effects of drinking coffee?,,3,17497:0,Did science backtrack regarding coffee causing dehydration?,<caffeine><medical-myths><coffee><dehydration>,Score 0.7
+what are the effects of drinking coffee?,,4,9083:0,How can caffeine cause nausea?,<caffeine><nausea><coffee>,Score 0.69
+what are the effects of drinking coffee?,,5,12008:0,How does coffee affect blood sugar levels?,<caffeine><coffee><yeast-infection><blood-sugar>,Score 0.68
+wrist pain,,1,11842:5,It has been this way for a few weeks now.,<pain><wrist>,Score 0.87
+wrist pain,,2,11842:3,"The pain is along the top of the wrist, somewhat on the ulnar side although radiating out to the whole wrist to some extent.",<pain><wrist>,Score 0.81
+wrist pain,,3,22922:2,2018 begining I started feeling very light pain in the middle of my right wrist joint when ever I use it to stand up pushing my self using my right hand agents the ground when Im sitting or standing.,<pain><orthopedics><wrist>,Score 0.79
+wrist pain,,4,22922:5,I went to 5 Doc so far but no one told me exactly whats the issue.,<pain><orthopedics><wrist>,Score 0.78
+wrist pain,,5,11842:1,"I get quite a strong pain in my wrist when I bend it back, or play a wrist-intensive sport like squash, but the rest of the time my wrist is OK and my fingers don't feel any different either.",<pain><wrist>,Score 0.78
+athletes's foot,,1,13058:5,I would guess this is still below the actual exposure that any car mechanic would get on a daily base during his/her work.,<athletes-foot>,Score 0.64
+athletes's foot,,2,10213:1,Is this an instance of pitted keratolysis? There are no other lesions on the feet. Or is it athlete's foot?,<feet><abscess-lesions><athletes-foot>,Score 0.61
+athletes's foot,,3,13058:4,"Areas to be treated are the soles of both feet, the toes with the area between them, under the toe nails and the area on top of the toes.",<athletes-foot>,Score 0.58
+athletes's foot,,4,13542:1,Recently I bought a pair of running shoes (with a lot of cushioning) and another pair of casual shoes.,<feet><musculoskeletal-system>,Score 0.57
+athletes's foot,,5,3177:3,"When I watch football matches, I notice that this situation seems to be even more extreme in some professional players, i.e. when they're lying naturally on the ground they have their playing foot pointing outward much more than the other foot.",<sports><knee><ankle><gait-walk-abnormalities>,Score 0.56
+is washing with hot or cold water better at killing germs?,,1,500:3,Does washing your hands with hot water kill germs better than washing them with cold water?,<water>,Score 0.91
+is washing with hot or cold water better at killing germs?,,2,500:0,Does hot water kill germs better than cold water?,<water>,Score 0.88
+is washing with hot or cold water better at killing germs?,,3,500:1,I was recently told that I should use hot water to wash my hands rather than using cold water because the hot water will kill germs better.,<water>,Score 0.8
+is washing with hot or cold water better at killing germs?,,4,13647:0,When is hand sanitizer appropriate/sufficient in place of warm water and soap?,<hand-sanitizers>,Score 0.67
+is washing with hot or cold water better at killing germs?,,5,17260:0,"Drink Cold, Warm, or Hot water. Which one is better for constipation?",<drinks><water-temperature><constipation>,Score 0.63
+"is it true that smokers suffer from lack of oxygen in their lungs, I think this is oxygen saturation?",,1,501:0,Oxygen saturation value of smokers,<smoking><oxygenation><biological-parameter>,Score 0.76
+"is it true that smokers suffer from lack of oxygen in their lungs, I think this is oxygen saturation?",,2,501:4,"When I was a smoker, my own SpO2 was usually 100%. The saturation of my smoker colleagues who tried is also normal.",<smoking><oxygenation><biological-parameter>,Score 0.76
+"is it true that smokers suffer from lack of oxygen in their lungs, I think this is oxygen saturation?",,3,501:2,"I've read (non-sourced Wikipedia FR fragment, no mention of this in Wikipedia EN) and heard (informal discussions with medical and rescue staff) that this value decreases significantly if the subject is a smoker.",<smoking><oxygenation><biological-parameter>,Score 0.74
+"is it true that smokers suffer from lack of oxygen in their lungs, I think this is oxygen saturation?",,4,501:5,"This doesn't prove anything as this does not constitute a study - just a bunch of measure without methodolology -, this is just to say I never observed this phenomenon.",<smoking><oxygenation><biological-parameter>,Score 0.74
+"is it true that smokers suffer from lack of oxygen in their lungs, I think this is oxygen saturation?",,5,501:3,"This raises the following questions: Is this true, and why? What are usual SpO2 values for smokers?",<smoking><oxygenation><biological-parameter>,Score 0.73
+what is pathogenesis?,,1,1865:3,"etiology - ""The study of causes, as in the causes of a disease"". Pathogenesis: ""The development of a disease and the chain of events leading to that disease"".",<terminology><pathophysiology>,Score 0.65
+what is pathogenesis?,,2,1865:0,"What's the difference between etiology, pathogenesis, pathology, pathophysiology and epidemiology?",<terminology><pathophysiology>,Score 0.55
+what is pathogenesis?,,3,4361:3,This made me curious.,<infection><immune-system><disease-transmission>,Score 0.54
+what is pathogenesis?,,4,3525:2,Is there any disease that can be caused by this?,<health-informatics><infectious-diseases>,Score 0.53
+what is pathogenesis?,,5,9893:0,Can viruses be inherited?,<infection><disease-transmission><infectious-diseases><virus><genetics>,Score 0.52
+can ultrasound cause damage?,,1,7428:0,Can headphones produce undesirable ultrasounds that can damage my hearing?,<hearing>,Score 0.7
+can ultrasound cause damage?,,2,755:0,Can I hear ultrasounds?,<hearing><medical-device><ultrasounds>,Score 0.66
+can ultrasound cause damage?,,3,9678:0,Non-ionizing sound waves,<ultrasounds><soundwaves>,Score 0.6
+can ultrasound cause damage?,,4,24598:2,I guess this is a mixture of physical and medical reasons. The reason why I wonder is that x-rays are potentially damaging tissues while ultra-sonics do not (at all? ).,<medical-imaging><x-rays><ultrasounds>,Score 0.6
+can ultrasound cause damage?,,5,9678:1,"The Mayo Clinic website specifies that ""Diagnostic medical sonographers and vascular technologists use nonionizing, high-frequency sound waves (ultrasound) to diagnose, treat and prevent medical conditions"".",<ultrasounds><soundwaves>,Score 0.6
+my glasses cause me headache,,1,1530:0,Can tight glasses cause headaches?,<headache><glasses>,Score 0.85
+my glasses cause me headache,,2,1530:2,I've had this problem for a very long time where the glasses leave a dent in my head.,<headache><glasses>,Score 0.84
+my glasses cause me headache,,3,1530:7,"I usually get a headache, but it feels relieved when I take off my glasses for a bit. Is this perhaps a psychological effect or my tight glasses be causing headaches?",<headache><glasses>,Score 0.83
+my glasses cause me headache,,4,1530:9,"I have taken my glasses to the store halve a year ago explaining my problem, but the people there didn't really say much.",<headache><glasses>,Score 0.82
+my glasses cause me headache,,5,1530:12,I notice this topic is gaining a lot of attention. The problem is actually solved now; the tight frames did in fact cause the headaches.,<headache><glasses>,Score 0.8
+negative effects of antibiotics,,1,359:3,"For example, are there occasions when even prescribed antibiotics should be avoided?",<prescription><antibiotics>,Score 0.67
+negative effects of antibiotics,,2,18184:3,"My question is, do the two antibiotics have antagonistic effects? If so, is it a one-way antagonism and which way?",<antibiotics><drug-interactions>,Score 0.67
+negative effects of antibiotics,,3,6991:0,Why does overuse of antibiotics cause resistance?,<medications><bacteria><antibiotics><resistance>,Score 0.67
+negative effects of antibiotics,,4,21083:3,I google through many pages in Polish and English. I found potential alergic effect and influence on blood clotting but no word about interactions with antibiotics is it safe or dangerous.,<antibiotics><biochemistry>,Score 0.65
+negative effects of antibiotics,,5,17787:6,Can someone maybe explain what the right reaction in such a case would be?,<medications><antibiotics>,Score 0.62
+gallstones relief,,1,669:0,Gallstones pain relief?,<pain><gallbladder><gastroenterology>,Score 0.8
+gallstones relief,,2,17630:8,"Is there really still no better surgical option available, to remove gallstones and leave the repaired, emptied gallbladder in place?",<gallbladder><gallstone>,Score 0.73
+gallstones relief,,3,669:1,"What suggestions are there for pain relief caused by stones in the gallbladder, while waiting for surgery date?",<pain><gallbladder><gastroenterology>,Score 0.71
+gallstones relief,,4,17630:1,"The practice of completely cutting out the gallbladder to ""cure"" gallstones goes back to 1878 when it was first successfully performed, and which is nearly prehistoric times in medical history and technology.",<gallbladder><gallstone>,Score 0.71
+gallstones relief,,5,9475:3,I've ignored this for years and my doctor visits have yielded no clarity on the issue. I've also not found any answers with online research.,<gallbladder>,Score 0.68
+I am concerned that my stiches (sutures) are not healing fast enough,,1,15019:7,How can I avoid this happening in future surgeries?,<surgery><sutures>,Score 0.67
+I am concerned that my stiches (sutures) are not healing fast enough,,2,15222:0,Can any wound be sutured?,<surgery><sutures>,Score 0.63
+I am concerned that my stiches (sutures) are not healing fast enough,,3,15222:1,"Basically, it is the broader question for this problem.",<surgery><sutures>,Score 0.61
+I am concerned that my stiches (sutures) are not healing fast enough,,4,15019:2,"After the surgeon removed the exterior sutures, I was still having problems with the wound healing. After another week or so, I noticed something on my palm at the incision site.",<surgery><sutures>,Score 0.59
+I am concerned that my stiches (sutures) are not healing fast enough,,5,8709:1,"I had surgery recently, the doctor said he used vicryl suture to close the wound.",<surgery>,Score 0.58
+"eye floaters: are they dangerous, how to get rid of them?",,1,3452:1,"When I first started getting floaters in my eyes (several years ago), my opthalmologist told me that they don't go away but over time your brain learns to ignore them/filter them out.",<eye><ophthalmology>,Score 0.83
+"eye floaters: are they dangerous, how to get rid of them?",,2,3452:9,"In case it matters, my floaters were not caused by eye trauma or retina problems; I was told this is just part of the aging process.",<eye><ophthalmology>,Score 0.77
+"eye floaters: are they dangerous, how to get rid of them?",,3,15:1,According to wikipedia on eye floaters:  Floaters are often caused by the normal aging process and will usually disappear as the brain learns to ignore them.,<eye><ophthalmology><aging>,Score 0.77
+"eye floaters: are they dangerous, how to get rid of them?",,4,3452:5,"How do floaters ""work""?",<eye><ophthalmology>,Score 0.77
+"eye floaters: are they dangerous, how to get rid of them?",,5,3452:10,I am not asking for a personal diagnosis. This is a physiology question -- what's going on in the eye (or brain) when floaters are active?,<eye><ophthalmology>,Score 0.75
+cure for snake venom,,1,545:1,"If a person is bitten by a snake, what first aid measures should be taken to prevent the venom from spreading all over the body until the proper medical help arrives?",<first-aid><venom>,Score 0.71
+cure for snake venom,,2,545:0,First aid measures for a snake bite,<first-aid><venom>,Score 0.69
+cure for snake venom,,3,4776:0,Is hemotoxic snake venom safe to ingest?,<digestion><poison><venom>,Score 0.68
+cure for snake venom,,4,4776:1,I have heard that snake venom is safe to ingest. Normally when I hear about this it is about hemotoxic venoms such as that of a rattlesnake.,<digestion><poison><venom>,Score 0.59
+cure for snake venom,,5,4776:12,So is hemotoxic snake venom safe to ingest or is it something with a high risk of poisoning if it gets ingested and there are no wounds in the digestive system?,<digestion><poison><venom>,Score 0.59
+toothpaste with or without fluoride? Pros and cons?,,1,4328:7,"Or, should I look for a fluoride rinse, and would that be an effective replacement for toothpaste containing fluoride?",<dentistry><oral-health>,Score 0.82
+toothpaste with or without fluoride? Pros and cons?,,2,12984:3,Would there be any risks or effects by switching to a toothpaste that does not contain fluoride?,<dentistry><risks><toothpaste><fluoride>,Score 0.82
+toothpaste with or without fluoride? Pros and cons?,,3,12984:0,Are there any risks about switching to a non-fluoride toothpaste?,<dentistry><risks><toothpaste><fluoride>,Score 0.79
+toothpaste with or without fluoride? Pros and cons?,,4,4328:4,"I'd still use it if it contained fluoride, but I have yet to find a ""healthy"" toothpaste that does.",<dentistry><oral-health>,Score 0.79
+toothpaste with or without fluoride? Pros and cons?,,5,15277:0,Is it beneficial to keep using fluorised toothpaste after prolonged use?,<dentistry><risks><brushing-teeth><biochemistry><fluoride>,Score 0.76
+when is it safe to take a blood test?,,1,1487:0,Why should I fast before taking blood tests?,<blood-tests>,Score 0.69
+when is it safe to take a blood test?,,2,1487:6,"Guess at the end of the test they should say ""well, you will probably be fine, as long as you take another blood test every couple of days"".",<blood-tests>,Score 0.67
+when is it safe to take a blood test?,,3,21010:1,"This is a genuine question, which so far I've been unable to find an answer to.",<blood-tests>,Score 0.63
+when is it safe to take a blood test?,,4,522:0,How long should a person keep blood test results?,<blood-tests><medical-records>,Score 0.6
+when is it safe to take a blood test?,,5,19613:0,Risk of HIV transmission during blood test?,<blood-tests><hiv>,Score 0.6
+are dog bites dangerous?,,1,11864:0,Is there any food restrictions after dog bite,<food-safety><animal-bites>,Score 0.74
+are dog bites dangerous?,,2,11864:1,"When a street dog bites a human, Are there any food restrictions while being treated? I heard we should't eat spicy foods and non veg , is it another myth ?",<food-safety><animal-bites>,Score 0.74
+are dog bites dangerous?,,3,12761:2,So if I get bitten by a house dog what could be the case?,<infection><animal-bites>,Score 0.7
+are dog bites dangerous?,,4,9134:0,Can dog bites cause Echinococcosis?,<infection><prevention>,Score 0.69
+are dog bites dangerous?,,5,9134:1,"I know that dog bites are dangerous and can give you rabies,but can a dog bite cause Echinococcosis?",<infection><prevention>,Score 0.69
+what are the side effects of Benadryl?,,1,19144:5,I found this link but it's a bit of a wall of text.,<side-effects>,Score 0.55
+what are the side effects of Benadryl?,,2,248:0,Do Benadryl and Loratadine contain the same active ingredient?,<allergy><drug-interactions><overdose><antihistamines><hay-fever>,Score 0.54
+what are the side effects of Benadryl?,,3,13806:0,How common are tics as a side-effect when taking Lamotrigine?,<medications><side-effects>,Score 0.54
+what are the side effects of Benadryl?,,4,1484:4,"Hypoglycemia, dehydration, weight loss, and disorientation. Additional signs and symptoms include weakness, tiredness, dizziness, low blood pressure that falls further when standing (orthostatic hypotension), cardiovascular collapse, muscle aches, nausea, vomiting, and diarrhea.",<topical-cream-gel><steroids><drug-withdrawal><eczema>,Score 0.53
+what are the side effects of Benadryl?,,5,12107:0,Taking Benadryl after Claritin,<allergy><drug-interactions><itching><seasonal-allergies><antihistamines>,Score 0.53
+are computer glasses helpful in reducing eye fatigue or other eye problems?,,1,5466:0,Do computer glasses actually work?,<eye><effectiveness><vision><stress><glasses>,Score 0.83
+are computer glasses helpful in reducing eye fatigue or other eye problems?,,2,5466:5,My question is this: I came across computer glasses but opinions are divided and I wonder what is true.,<eye><effectiveness><vision><stress><glasses>,Score 0.79
+are computer glasses helpful in reducing eye fatigue or other eye problems?,,3,52:1,"My job requires long periods of computer screen use. I have good eyesight (20/15) and don't wear glasses, but I definitely notice my eyes feeling fatigued at the end of the day.",<eye><computers><lifestyle>,Score 0.77
+are computer glasses helpful in reducing eye fatigue or other eye problems?,,4,13259:0,Can looking at a computer screen be good for your eyes?,<eye><computers><benefits><screen-time-limits>,Score 0.75
+are computer glasses helpful in reducing eye fatigue or other eye problems?,,5,13259:4,Now I am 31 years old and I don't use glasses and don't have any problem with my eyes.,<eye><computers><benefits><screen-time-limits>,Score 0.74
+what are the best sleeping positions?,,1,582:2,"Is this true, and if so, in what way does it affect a person and which is the best position to sleep in?",<sleep><position>,Score 0.74
+what are the best sleeping positions?,,2,5044:0,Is it better to sleep without a pillow?,<sleep><spine><position>,Score 0.7
+what are the best sleeping positions?,,3,582:0,Does sleeping position affect health?,<sleep><position>,Score 0.7
+what are the best sleeping positions?,,4,9208:0,What should be the position of feet while sleeping?,<sleep><posture><feet><knee><position>,Score 0.69
+what are the best sleeping positions?,,5,541:3,"Of course, any sleeping arrangement that makes it difficult to get to sleep or to stay asleep is inferior.",<sleep>,Score 0.66
+how can tinnitus be cured?,,1,1789:0,Is there any efficient treatment of Tinnitus (Ear ringing)?,<hearing><disease><tinnitus><ears-nose-throat-ent><earwax>,Score 0.84
+how can tinnitus be cured?,,2,15496:0,Can induced deafness cure tinnitus,<hearing><ear><tinnitus><cure><deaf>,Score 0.76
+how can tinnitus be cured?,,3,12991:7,"I can understand that exercise improves the blood flow which could have helped, but what continued the relief for 2days?",<brain><hearing><ear><tinnitus>,Score 0.75
+how can tinnitus be cured?,,4,12991:6,"I observed that cardio exercises and outdoor gaming activity, temporarily eradicated this problem. The longest relief span recorded by me was 2 days.",<brain><hearing><ear><tinnitus>,Score 0.72
+how can tinnitus be cured?,,5,1789:3,"After many googling attempts, reading other people cases, I've not even found at least a person who recovered from Tinnitus. Now, I'm just wondering if this malady hasn't actually a remedy.",<hearing><disease><tinnitus><ears-nose-throat-ent><earwax>,Score 0.72

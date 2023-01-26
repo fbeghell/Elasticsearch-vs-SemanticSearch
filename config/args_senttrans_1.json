@@ -1,0 +1,13 @@
+{
+    "model_type": "sent_transformer",
+    "model_filepath": "sentence-transformers/all-MiniLM-L12-v2",
+    "run_name": "sent_trans_baseline",
+    "prep_lower": true,   
+    "prep_skipw": false,
+    "prep_stem": false,
+    "prep_remove_punct": false,
+    "prep_prefix_col": "Tags",
+    "prep_col": "Snippet",
+    "prep_max_words_per_snippet": 30,
+    "num_search_results": 5
+}
