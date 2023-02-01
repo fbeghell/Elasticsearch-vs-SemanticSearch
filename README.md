@@ -7,7 +7,6 @@
 <p>Start with the Notebooks. They contain the main narrative for this project.</p>
 <h2>Contents</h2>
 <ul><li>Notebooks: Models.ipynb gives the main narrative of the project; Data.ipynb contains data analysis. </li>
-    <li>Models: the 'all-MiniLM-L12-v2' model</li>
     <li>config: configuration for the Python module and for the experiments</li>
     <li>health_exchange: the Python module</li>
     <li>data: health dataset from StackExchange, graded test set</li>
